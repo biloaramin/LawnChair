@@ -17,5 +17,4 @@ Contributing to Suma-Launcher is pretty straightforward! Fork the project, clone
 
 ## Note
 
-This launcher is based on the Lawnchair excellent work. 
-<a href="https://github.com/LawnchairLauncher/Lawnchair">
+This launcher is based on the [Lawnchair] (href="https://github.com/LawnchairLauncher/Lawnchair") excellent work. 
