@@ -1,4 +1,4 @@
-# Suma-Launcher - [![Builds](https://build.codebucket.de/api/badges/LawnchairLauncher/Lawnchair/status.svg)](https://build.codebucket.de/LawnchairLauncher/Lawnchair) - [![Crowdin](https://d322cqt584bo4o.cloudfront.net/lawnchairandroid/localized.svg)](http://translate.lawnchair.info) - [![Codacy grade](https://img.shields.io/codacy/grade/e2727925367548d7bbef71d54209d35b.svg)](https://www.codacy.com/app/deletescape/Lawnchair/dashboard) - 
+# Suma-Launcher 
 
 [Suma-Launcher](banner.png)
 
@@ -11,7 +11,6 @@ Download now!
 ## Now what does this cost?
 
 Nothing, I am promising that Suma-Launcher, including all it's features, will always be free.
-(https://play.google.com/store/apps/details?id=suma.launcher) app from Google Play to show your support.
 
 ## How to Contribute?
 
