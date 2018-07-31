@@ -1,6 +1,6 @@
 # Suma-Launcher
 
-![Lawnchair](banner.png)
+![Suma-Launcher](banner.png)
 
 Suma-Launcher is a free, open source launcher aiming at bringing Pixel Launcher features to many devices. 
 Download now!
@@ -19,4 +19,5 @@ Contributing to Suma-Launcher is pretty straightforward! Fork the project, clone
 
 ## Note
 
-This launcher is based on the Lawnchair excellent work. <a href="https://github.com/LawnchairLauncher/Lawnchair">
+This launcher is based on the Lawnchair excellent work. 
+<a href="https://github.com/LawnchairLauncher/Lawnchair">
