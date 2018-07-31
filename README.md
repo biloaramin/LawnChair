@@ -1,7 +1,5 @@
 # Suma-Launcher
 
-![Suma-Launcher](banner.png)
-
 Suma-Launcher is a free, open source launcher aiming at bringing Pixel Launcher features to many devices. 
 Download now!
 
